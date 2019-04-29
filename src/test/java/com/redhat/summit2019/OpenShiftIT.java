@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package io.openshift.booster;
+package com.redhat.summit2019;
 
 import java.net.URL;
 import org.arquillian.cube.openshift.impl.enricher.AwaitRoute;

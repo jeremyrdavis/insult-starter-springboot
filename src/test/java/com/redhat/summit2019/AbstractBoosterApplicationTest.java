@@ -13,12 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package io.openshift.booster;
+package com.redhat.summit2019;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.core.Is.is;
 
-import io.openshift.booster.service.Greeting;
+import com.redhat.summit2019.service.Greeting;
 import org.junit.Test;
 
 public abstract class AbstractBoosterApplicationTest {

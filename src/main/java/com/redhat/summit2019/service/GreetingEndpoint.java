@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package io.openshift.booster.service;
+package com.redhat.summit2019.service;
 
 import javax.ws.rs.DefaultValue;
 import javax.ws.rs.GET;
